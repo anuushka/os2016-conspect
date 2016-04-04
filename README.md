@@ -10,13 +10,13 @@
     * Практика: На самом деле 2-ая лекция. Практически всё про make и Makefile
 2. 16.02.16
     * Теория: Адресация памяти, файловая система (Inode, mount, etc...) *(not implemented yet)*
-    * [Практика](practicies/practice1/practice1.md): работа с файловыми дескрипторами (open, read, write, close). Статическая и динамическая линковки.
+    * [Практика](practices/practice1/practice1.md): работа с файловыми дескрипторами (open, read, write, close). Статическая и динамическая линковки.
 3. 01.03.16 
     * [Теория](lectures/lecture2.md): права доступа, владельцы процессов/файлов (uid, gid). Команды sudo, chmod, chown.
-    * [Практика](practicies/practice2/practice2.md): скрипты на bash, некоторые консольные утилиты.  
+    * [Практика](practices/practice2/practice2.md): скрипты на bash, некоторые консольные утилиты.  
 4. 12.03.16 
     * [Теория](lectures/lecture3.md): umask, ссылки, треды, pipe/fifo
-    * [Практика](practicies/practice3/practice3.md): exec, wait, fork - создание дочерних процессов.
+    * [Практика](practices/practice3/practice3.md): exec, wait, fork - создание дочерних процессов.
 5. 15.03.16
     * [Теория](lectures/lecture4.md): межпроцессное взаимодействие, сигналы. В конце лекции зачем-то 10 минут про линковку.
     * Практика: сдача дз.
