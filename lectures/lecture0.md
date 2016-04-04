@@ -14,7 +14,7 @@
 ```python
 def main():
     name = readln()
-    string = "Hello, " ++ name ++ "!"
+    string = "Hello, " + name + "!"
     writeln(string)
     exit(0) 
 ```
@@ -27,7 +27,7 @@ def main():
 def main():
     return (Read, [], cont_main)
 def cont_main(name): #здесь мы приняли то что вернул системный вызов
-    string = "Hello, " ++ name ++ "!"
+    string = "Hello, " + name + "!"
     return (Write, [string], cont_main2)
 def cont_main2(wr_result): 
     return (Exit, [0], NONE)
